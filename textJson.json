@@ -1,0 +1,187 @@
+{
+    "documents": [
+        {
+            "id": "id__5926",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0.03,
+                "neutral": 0.25,
+                "negative": 0.72
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.08,
+                        "neutral": 0.86,
+                        "negative": 0.06
+                    },
+                    "offset": 0,
+                    "length": 119,
+                    "text": "Abilio Cesario Rodrigues Keep will say, OK, your pants with the suggested they they push the water to Mexico trabalha. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.54,
+                        "negative": 0.44
+                    },
+                    "offset": 119,
+                    "length": 75,
+                    "text": "0:0:11.190 --> 0:0:12.750 Elvis Ricardo da Silva Gonçalves Little problem. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.13,
+                        "neutral": 0.82,
+                        "negative": 0.05
+                    },
+                    "offset": 194,
+                    "length": 130,
+                    "text": "0:0:12.760 --> 0:0:18.620 Elvis Ricardo da Silva Gonçalves Siege and once you saw me pass yesterday, mother, for the last sister. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.83,
+                        "negative": 0.15
+                    },
+                    "offset": 324,
+                    "length": 83,
+                    "text": "0:0:20.560 --> 0:0:21.660 Elvis Ricardo da Silva Gonçalves Not quite, not anymore. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.8,
+                        "negative": 0.1
+                    },
+                    "offset": 407,
+                    "length": 97,
+                    "text": "0:0:21.660 --> 0:0:23.700 Elvis Ricardo da Silva Gonçalves Big you know why you're so Francisco? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.42,
+                        "negative": 0.53
+                    },
+                    "offset": 504,
+                    "length": 100,
+                    "text": "0:0:24.300 --> 0:0:28.900 Elvis Ricardo da Silva Gonçalves He originally came here my, well, dopey. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.85,
+                        "negative": 0.11
+                    },
+                    "offset": 604,
+                    "length": 72,
+                    "text": "0:0:28.910 --> 0:0:29.770 Elvis Ricardo da Silva Gonçalves If you loud. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.07,
+                        "neutral": 0.91,
+                        "negative": 0.02
+                    },
+                    "offset": 676,
+                    "length": 110,
+                    "text": "0:0:31.110 --> 0:0:35.470 Elvis Ricardo da Silva Gonçalves Uh, But the Pratham here today, your project says. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.94,
+                        "negative": 0.04
+                    },
+                    "offset": 786,
+                    "length": 93,
+                    "text": "0:0:35.640 --> 0:0:38.70 Elvis Ricardo da Silva Gonçalves Tell us yours and someone unknown. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.09,
+                        "negative": 0.91
+                    },
+                    "offset": 879,
+                    "length": 99,
+                    "text": "0:0:38.720 --> 0:0:41.460 Elvis Ricardo da Silva Gonçalves But it's too dangerous to see your key. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.96,
+                        "negative": 0.01
+                    },
+                    "offset": 978,
+                    "length": 83,
+                    "text": "0:0:41.510 --> 0:0:42.770 Elvis Ricardo da Silva Gonçalves OK, profile the helmet. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.68,
+                        "negative": 0.29
+                    },
+                    "offset": 1061,
+                    "length": 102,
+                    "text": "0:0:42.780 --> 0:0:45.320 Elvis Ricardo da Silva Gonçalves Stop myself will not turn the key key for. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 1163,
+                    "length": 25,
+                    "text": "0:0:48.40 --> 0:0:48.190 ",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
